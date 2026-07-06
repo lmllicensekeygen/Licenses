@@ -1,1 +1,11 @@
-
+{
+  "8b8573835044f8ed6b709f298287ea6c7a74afcff269f2ff578015452beb2149": {
+    "expiryDate": "2026-07-20",
+    "customerName": "trial",
+    "status": "active",
+    "productCode": "LML-BP",
+    "integrationStatus": "none",
+    "orderValue": 0,
+    "isTrial": true
+  }
+}
