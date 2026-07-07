@@ -15,5 +15,13 @@
     "productCode": "LML-FP",
     "integrationStatus": "none",
     "orderValue": 60000
+  },
+  "7346ceeb6b46690324b6af102dca3c9e5582261eee9b05c96e9a3196e26ca9b8": {
+    "expiryDate": "2027-01-06",
+    "customerName": "billing pro test",
+    "status": "active",
+    "productCode": "LML-BP",
+    "integrationStatus": "none",
+    "orderValue": 24000
   }
 }
