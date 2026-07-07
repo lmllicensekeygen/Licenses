@@ -1,2 +1,11 @@
+{
+  "1a30a24dc8e7e430ad1bb00178265290206fc3376a77a716f336b01269228014": {
+    "expiryDate": "2026-07-21",
+    "customerName": "Finance Pro Standalone",
+    "status": "active",
+    "productCode": "LML-FP",
+    "integrationStatus": "none",
+    "orderValue": 0,
+    "isTrial": true
+  }
 }
-
