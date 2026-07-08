@@ -7,5 +7,14 @@
     "integrationStatus": "none",
     "orderValue": 0,
     "isTrial": true
+  },
+  "92db4c58ba78188df85dfd0c62e5989f119e7a053c98ee2f0485ffa4de3553a9": {
+    "expiryDate": "2026-07-22",
+    "customerName": "Billing Pro Standalone",
+    "status": "active",
+    "productCode": "LML-BP",
+    "integrationStatus": "none",
+    "orderValue": 0,
+    "isTrial": true
   }
 }
